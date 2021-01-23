@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+}
+
+#cabecalho{
+    background-size:100%;
+    background-image: url(../images/fundodocabecalho-1500corte.jpeg);
+    width: 100%;
+    height: 200px;
+}
+
+#cabecalho h1{
+    color: darkorange;
+    text-shadow:3px 3px 3px black;
+    font-family:cursive;
+    margin-inline: 40px;
+}
+
+#infantis h2{
+    text-align: center;
+    color:darkseagreen;
+    font-size: 40px;
+    text-shadow: 1px 1px 1px black;
+}
+
+#titulo{
+    margin-top: 20px;
+    font-size:20px;
+    text-align: center;
+}
+
+#intro{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#estrofe{
+    text-align: center;
+}
+
+#refrao{
+    text-align: center;
+    margin-top: 20px;
+}
