@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+}
+
+#cabecalho{
+    background-size:100%;
+    background-image: url(../images/teste8.jpg);
+    width: 100%;
+    height: 200px;
+}
+
+#cabecalho h1{
+    color: darkorange;
+    text-shadow:3px 3px 3px black;
+    font-family:cursive;
+    float: left;
+    font-size: 50px;
+}

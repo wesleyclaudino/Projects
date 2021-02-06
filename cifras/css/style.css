@@ -13,7 +13,8 @@
     color: darkorange;
     text-shadow:3px 3px 3px black;
     font-family:cursive;
-    margin-inline: 40px;
+    font-size: 50px;
+    float: left;
 }
 
 #infantis h2{
